@@ -1,4 +1,4 @@
-1. First iteration for Task 1.
+1. First iteration for Task 1. Fix code in first iteration.
 
 2. Second iteration for Task 1.
 
